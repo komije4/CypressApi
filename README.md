@@ -19,10 +19,15 @@ Testes automatizados API com o framework cypress.
   ```cmd
 
   npm install 
-
+  
   npm install cypress@8.0.0
-
+  
   npm run cypress:open
+  
+  
+  Utilize este comando para executar teste por linha comando
+  
+  npm run cypress:run
 
   ```
 
