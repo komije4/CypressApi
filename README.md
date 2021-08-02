@@ -24,7 +24,6 @@ Testes automatizados API com o framework cypress.
   
   npm run cypress:open
   
-  
   Utilize este comando para executar teste por linha comando
   
   npm run cypress:run
