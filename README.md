@@ -1,4 +1,4 @@
-# Teste automatizado API com o framework cypress 
+# Teste automatizado API com o framework cypress.
 Testes automatizados API com o framework cypress.
 
 ## Dependencias
